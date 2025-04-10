@@ -1,5 +1,6 @@
 # 🧭 Topologia ASCII – Monitoramento com Zabbix e Logs
 ---
+```
 [ Zabbix Server ]
        |
 +------------------+
@@ -9,4 +10,4 @@
 |  +-------------+ |
 |  |  Serviços   | | <-- Apache, OpenVPN, etc.
 +------------------+
-
+```
