@@ -36,3 +36,8 @@ This script installs and configures **Zabbix Agent** on Ubuntu servers, setting 
 sudo chmod +x install_zabbix_agent.sh
 sudo ./install_zabbix_agent.sh
 ```
+---
+
+## ✅ Próximo passo sugerido / Suggested next step
+
+    log_rotation_setup.md: Configure rotação de logs para o Zabbix Agent.
