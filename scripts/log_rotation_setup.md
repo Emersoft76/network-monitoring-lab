@@ -32,4 +32,4 @@ sudo ./log_rotation_setup.sh
 
 ✅ Próximo passo sugerido / Suggested next step
 
-    log_analysis_tools.md: Explore ferramentas para visualizar e monitorar os logs criados.
+[log_analysis_tools.md](https://github.com/Emersoft76/network-monitoring-lab/blob/main/docs/log_analysis_tools.md): Explore ferramentas para visualizar e monitorar os logs criados.
