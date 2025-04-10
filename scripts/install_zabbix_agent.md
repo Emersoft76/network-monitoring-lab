@@ -40,4 +40,4 @@ sudo ./install_zabbix_agent.sh
 
 ## ✅ Próximo passo sugerido / Suggested next step
 
-    log_rotation_setup.md: Configure rotação de logs para o Zabbix Agent.
+[log_rotation_setup.md](https://github.com/Emersoft76/network-monitoring-lab/blob/main/scripts/log_rotation_setup.md): Configure rotação de logs para o Zabbix Agent.
